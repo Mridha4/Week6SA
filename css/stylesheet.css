@@ -23,4 +23,14 @@ a:hover {
     background-color: pink;
 }
 
+ul::first-letter {
+    font-style: bold;
+    font-size: 120%;
+}
+
+a[title = "BCIT homepage"] {
+    background-color: yellow;
+}
+
+
 
